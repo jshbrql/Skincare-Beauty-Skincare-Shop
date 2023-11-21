@@ -1,0 +1,20 @@
+C:\Users\Administrator\source\repos\SKINMOOD BEAUTY & SKINCARE SHOP\SKINMOOD BEAUTY & SKINCARE SHOP\bin\Debug\net6.0-windows\SKINMOOD BEAUTY & SKINCARE SHOP.exe
+C:\Users\Administrator\source\repos\SKINMOOD BEAUTY & SKINCARE SHOP\SKINMOOD BEAUTY & SKINCARE SHOP\bin\Debug\net6.0-windows\SKINMOOD BEAUTY & SKINCARE SHOP.deps.json
+C:\Users\Administrator\source\repos\SKINMOOD BEAUTY & SKINCARE SHOP\SKINMOOD BEAUTY & SKINCARE SHOP\bin\Debug\net6.0-windows\SKINMOOD BEAUTY & SKINCARE SHOP.runtimeconfig.json
+C:\Users\Administrator\source\repos\SKINMOOD BEAUTY & SKINCARE SHOP\SKINMOOD BEAUTY & SKINCARE SHOP\bin\Debug\net6.0-windows\SKINMOOD BEAUTY & SKINCARE SHOP.dll
+C:\Users\Administrator\source\repos\SKINMOOD BEAUTY & SKINCARE SHOP\SKINMOOD BEAUTY & SKINCARE SHOP\bin\Debug\net6.0-windows\SKINMOOD BEAUTY & SKINCARE SHOP.pdb
+C:\Users\Administrator\source\repos\SKINMOOD BEAUTY & SKINCARE SHOP\SKINMOOD BEAUTY & SKINCARE SHOP\obj\Debug\net6.0-windows\SKINMOOD_BEAUTY___SKINCARE_SHOP.Form1.resources
+C:\Users\Administrator\source\repos\SKINMOOD BEAUTY & SKINCARE SHOP\SKINMOOD BEAUTY & SKINCARE SHOP\obj\Debug\net6.0-windows\SKINMOOD_BEAUTY___SKINCARE_SHOP.Resources.resources
+C:\Users\Administrator\source\repos\SKINMOOD BEAUTY & SKINCARE SHOP\SKINMOOD BEAUTY & SKINCARE SHOP\obj\Debug\net6.0-windows\SKINMOOD BEAUTY & SKINCARE SHOP.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\SKINMOOD BEAUTY & SKINCARE SHOP\SKINMOOD BEAUTY & SKINCARE SHOP\obj\Debug\net6.0-windows\SKINMOOD BEAUTY & SKINCARE SHOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\SKINMOOD BEAUTY & SKINCARE SHOP\SKINMOOD BEAUTY & SKINCARE SHOP\obj\Debug\net6.0-windows\SKINMOOD BEAUTY & SKINCARE SHOP.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\SKINMOOD BEAUTY & SKINCARE SHOP\SKINMOOD BEAUTY & SKINCARE SHOP\obj\Debug\net6.0-windows\SKINMOOD BEAUTY & SKINCARE SHOP.AssemblyInfo.vb
+C:\Users\Administrator\source\repos\SKINMOOD BEAUTY & SKINCARE SHOP\SKINMOOD BEAUTY & SKINCARE SHOP\obj\Debug\net6.0-windows\SKINMOOD BEAUTY & SKINCARE SHOP.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SKINMOOD BEAUTY & SKINCARE SHOP\SKINMOOD BEAUTY & SKINCARE SHOP\obj\Debug\net6.0-windows\SKINMOOD BEAUTY & SKINCARE SHOP.dll
+C:\Users\Administrator\source\repos\SKINMOOD BEAUTY & SKINCARE SHOP\SKINMOOD BEAUTY & SKINCARE SHOP\obj\Debug\net6.0-windows\refint\SKINMOOD BEAUTY & SKINCARE SHOP.dll
+C:\Users\Administrator\source\repos\SKINMOOD BEAUTY & SKINCARE SHOP\SKINMOOD BEAUTY & SKINCARE SHOP\obj\Debug\net6.0-windows\SKINMOOD BEAUTY & SKINCARE SHOP.pdb
+C:\Users\Administrator\source\repos\SKINMOOD BEAUTY & SKINCARE SHOP\SKINMOOD BEAUTY & SKINCARE SHOP\obj\Debug\net6.0-windows\SKINMOOD BEAUTY & SKINCARE SHOP.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\SKINMOOD BEAUTY & SKINCARE SHOP\SKINMOOD BEAUTY & SKINCARE SHOP\obj\Debug\net6.0-windows\ref\SKINMOOD BEAUTY & SKINCARE SHOP.dll
+C:\Users\Administrator\source\repos\SKINMOOD BEAUTY & SKINCARE SHOP\SKINMOOD BEAUTY & SKINCARE SHOP\obj\Debug\net6.0-windows\SKINMOOD_BEAUTY___SKINCARE_SHOP.Form2.resources
+C:\Users\Administrator\source\repos\SKINMOOD BEAUTY & SKINCARE SHOP\SKINMOOD BEAUTY & SKINCARE SHOP\obj\Debug\net6.0-windows\SKINMOOD_BEAUTY___SKINCARE_SHOP.Form3.resources
+C:\Users\Administrator\source\repos\SKINMOOD BEAUTY & SKINCARE SHOP\SKINMOOD BEAUTY & SKINCARE SHOP\obj\Debug\net6.0-windows\SKINMOOD_BEAUTY___SKINCARE_SHOP.Form4.resources
